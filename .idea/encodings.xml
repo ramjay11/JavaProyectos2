@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/spring-webflux-demonstration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-webflux-demonstration/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/student-service-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-demonstration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-demonstration/src/main/resources" charset="UTF-8" />
   </component>
 </project>

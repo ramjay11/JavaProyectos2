@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/spring-webflux-demonstration/pom.xml" />
         <option value="$PROJECT_DIR$/student-service-application/pom.xml" />
         <option value="$PROJECT_DIR$/spring-aop-buffer/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-demonstration/pom.xml" />
       </list>
     </option>
   </component>
