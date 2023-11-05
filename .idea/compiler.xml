@@ -8,8 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="webflux-demonstration" />
-        <module name="spring-boot-webflux-demo" />
         <module name="spring-aop-buffer" />
+        <module name="jwt-authentication-authorization" />
+        <module name="spring-storedprocedure" />
+        <module name="spring-boot-webflux-demo" />
+        <module name="course-platform-jdbctemplate" />
         <module name="student-service-application" />
       </profile>
     </annotationProcessing>
@@ -19,8 +22,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="course-platform-jdbctemplate" options="-parameters" />
+      <module name="jwt-authentication-authorization" options="-parameters" />
       <module name="spring-aop-buffer" options="-parameters" />
       <module name="spring-boot-webflux-demo" options="-parameters" />
+      <module name="spring-storedprocedure" options="-parameters" />
       <module name="spring-webflux-demonstration" options="-parameters" />
       <module name="student-service-application" options="-parameters" />
       <module name="webflux-demonstration" options="-parameters" />

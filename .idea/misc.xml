@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/student-service-application/pom.xml" />
         <option value="$PROJECT_DIR$/spring-aop-buffer/pom.xml" />
         <option value="$PROJECT_DIR$/webflux-demonstration/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-authentication-authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-storedprocedure/pom.xml" />
+        <option value="$PROJECT_DIR$/course-platform-jdbctemplate/pom.xml" />
       </list>
     </option>
   </component>

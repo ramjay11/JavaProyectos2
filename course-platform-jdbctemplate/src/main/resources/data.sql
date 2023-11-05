@@ -1,0 +1,3 @@
+INSERT INTO course(title, description, link) values('Vue.js for beginners: Up and Running with Vue', 'A beginners''s guide to learn', '12345');
+INSERT INTO course(title, description, link) values('The Complete Apache Groovy Developer Course', 'Everything you need to know', '678910');
+INSERT INTO course(title, description, link) values('Getting Started with Spring Boot 3', 'Learn to build real application', '1112131415');
